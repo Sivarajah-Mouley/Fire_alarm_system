@@ -56,12 +56,12 @@ This project demonstrates how machine learning can significantly improve the rel
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/fire-alarm-ml.git
+    git clone https://github.com/Sivarajah-Mouley/Fire_alarm_system.git
     ```
 
 2. Navigate to the project folder:
     ```bash
-    cd fire-alarm-ml
+    cd Fire_alarm_system
     ```
 
 3. Install dependencies:
@@ -71,11 +71,11 @@ This project demonstrates how machine learning can significantly improve the rel
 
 4. Run the Jupyter notebook:
     ```bash
-    jupyter notebook Fire_Alarm_Smoke_Detection.ipynb
+    jupyter notebook Fire Alarm Detection.ipynb
     ```
 
 ## Project Files
 
-- `Fire_Alarm_Smoke_Detection.ipynb`: Jupyter notebook containing the full analysis and model development.
+- `Fire Alarm Detection.ipynb`: Jupyter notebook containing the full analysis and model development.
 - `requirements.txt`: List of Python packages required to run the project.
 - `dataset/`: Folder containing the dataset used for training.
